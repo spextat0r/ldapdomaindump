@@ -82,6 +82,8 @@ Misc options:
                         domain controller IP)
   -m, --minimal         Only query minimal set of attributes to limit memmory
                         usage
+  --ldap-channel-binding
+                        Use ldap channel binding
 ```
 
 ## Options
